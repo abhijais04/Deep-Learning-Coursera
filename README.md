@@ -1,6 +1,6 @@
 ### Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Course.
 
-#### This repo contains solutions of all the Programming assignments given during the course.
+This repo contains solutions of all the Programming assignments given during the course.
 
 ## Assignments
 - #### Course 1 - Neural Networks and Deep Learning
